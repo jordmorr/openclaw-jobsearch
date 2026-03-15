@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenClaw Jobsearch"
+  short_description: "Rank one employer's live roles for fit"
+  default_prompt: "Use $openclaw-jobsearch to rank the top current jobs for a named employer using EMPLOYERS.yaml, USER.md, and PREFERENCES.md."
