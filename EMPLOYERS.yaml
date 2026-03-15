@@ -1,0 +1,107 @@
+categories:
+  big_tech:
+    GOOGLE: https://careers.google.com/jobs/results/
+    AMAZON: https://www.amazon.jobs/
+    APPLE: https://www.apple.com/careers/us/
+    META: https://www.metacareers.com/
+    MICROSOFT: https://careers.microsoft.com/
+    NETFLIX: https://jobs.netflix.com/
+    UBER: https://www.uber.com/us/en/careers/
+    AIRBNB: https://careers.airbnb.com/
+    STRIPE: https://stripe.com/jobs
+    DATADOG: https://careers.datadoghq.com/
+    SNOWFLAKE: https://careers.snowflake.com/
+    DATABRICKS: https://www.databricks.com/company/careers
+    PALANTIR: https://www.palantir.com/careers/
+    DROPBOX: https://jobs.dropbox.com/
+    TWILIO: https://www.twilio.com/company/jobs
+    SHOPIFY: https://www.shopify.com/careers
+    BLOCK: https://block.xyz/careers
+    COINBASE: https://www.coinbase.com/careers
+    ROBLOX: https://careers.roblox.com/
+
+  frontier_ai:
+    OPENAI: https://openai.com/careers/
+    ANTHROPIC: https://www.anthropic.com/careers/jobs
+    XAI: https://x.ai/careers
+    HUGGINGFACE: https://huggingface.co/jobs
+    COHERE: https://cohere.com/careers
+    MISTRAL: https://mistral.ai/careers
+    PERPLEXITY: https://www.perplexity.ai/careers
+    SCALE_AI: https://scale.com/careers
+    RUNWAY: https://runwayml.com/careers
+    STABILITY_AI: https://stability.ai/careers
+    ELEVENLABS: https://elevenlabs.io/careers
+    TOGETHER_AI: https://www.together.ai/careers
+    WEIGHTS_BIASES: https://wandb.ai/site/jobs
+    ANYSCALE: https://www.anyscale.com/careers
+    OCTOAI: https://octo.ai/careers
+    PINECONE: https://www.pinecone.io/careers
+    ZILLIZ: https://zilliz.com/careers
+    REDIS: https://redis.com/company/careers/
+    MODAL: https://modal.com/careers
+
+  ai_infrastructure_hardware:
+    NVIDIA: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite
+    GROQ: https://groq.com/careers
+    CEREBRAS: https://www.cerebras.net/careers/
+    SAMBA_NOVA: https://sambanova.ai/careers
+    TENSTORRENT: https://tenstorrent.com/careers
+    LAMBDA_LABS: https://lambda.ai/careers
+    COREWEAVE: https://www.coreweave.com/careers
+    VAST_DATA: https://vastdata.com/careers
+    ETCHED: https://www.etched.ai/careers
+    DMATRIX: https://www.d-matrix.ai/careers
+    UNTETHER_AI: https://www.untether.ai/careers
+    MYTHIC: https://mythic.ai/careers
+    AXELERA_AI: https://www.axelera.ai/careers
+
+  robotics_autonomy:
+    TESLA: https://www.tesla.com/careers
+    AURORA: https://aurora.tech/careers
+    WAYMO: https://waymo.com/careers
+    NURO: https://nuro.ai/careers
+    FIGURE_AI: https://figure.ai/careers
+    COVARIANT: https://covariant.ai/careers
+    INTRINSIC: https://intrinsic.ai/careers
+    SKYDIO: https://www.skydio.com/careers
+
+  space_defense:
+    SPACEX: https://www.spacex.com/careers/
+    BLUE_ORIGIN: https://www.blueorigin.com/careers
+    ANDURIL: https://www.anduril.com/careers/
+    K2_SPACE: https://k2space.com/careers
+    PLANET: https://www.planet.com/company/careers/
+    SHIELD_AI: https://shield.ai/careers
+
+  semiconductors_eda:
+    ARM: https://careers.arm.com/
+    ASML: https://www.asml.com/en/careers
+    SYNOPSYS: https://www.synopsys.com/careers.html
+    CADENCE: https://www.cadence.com/en_US/home/company/careers.html
+    QUALCOMM: https://www.qualcomm.com/company/careers
+    BROADCOM: https://www.broadcom.com/company/careers
+    INTEL: https://jobs.intel.com/
+    AMD: https://careers.amd.com/careers-home
+    MARVELL: https://www.marvell.com/company/careers.html
+    MEDIATEK: https://www.mediatek.com/careers
+    IMAGINATION_TECH: https://www.imaginationtech.com/careers/
+    SILICON_LABS: https://www.silabs.com/careers
+    NXP: https://www.nxp.com/company/about-nxp/careers
+    INFINEON: https://www.infineon.com/cms/en/careers/
+    MICRON: https://careers.micron.com/
+
+  bioinformatics_health_bio:
+    RECURSION: https://www.recursion.com/careers
+    INSITRO: https://insitro.com/careers
+    GENENTECH: https://www.gene.com/careers
+    GINKGO: https://www.ginkgobioworks.com/careers
+    VARIANTYX: https://www.variantyx.com/company/careers-benefits/
+    TEMPUS_AI: https://www.tempus.com/careers/
+    ILLUMINA: https://jobs.illumina.com/
+    DNANEXUS: https://www.dnanexus.com/careers
+    COLOR_HEALTH: https://www.color.com/careers
+    NATERA: https://www.natera.com/company/careers/
+
+  miscellaneous:
+    10A_LABS: https://job-boards.greenhouse.io/10alabs

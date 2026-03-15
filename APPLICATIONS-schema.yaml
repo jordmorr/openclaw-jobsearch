@@ -1,0 +1,104 @@
+version: 2
+
+schema_purpose: >-
+  Generic template for constructing entries in APPLICATIONS.yaml without exposing any
+  real application records. Populate only facts stated in the job advert or known from
+  the user's application workflow. Use null for unknown scalar values, [] for unknown
+  lists, and {} only for flexible keyed objects such as salary bands.
+
+entry_rules:
+  - Create one item under applications for each submitted application.
+  - Do not invent requisition IDs, salaries, deadlines, URLs, recruiter names, or location details.
+  - Prefer ISO dates in YYYY-MM-DD format.
+  - application_id should be lowercase and stable: company-or-client + role/requisition slug + applied_on date.
+  - Keep notes concise, factual, and limited to high-value distinctions from the posting.
+  - If a recruiter represents an unnamed client, record the recruiter in company.name only if that is the public employer of record, and explain the confidential client in notes.
+  - locations should be a list of verbatim location strings from the advert.
+  - compensation.base_salary is a flexible map because postings use inconsistent band structures.
+  - Booleans may be true, false, or null when not stated.
+
+allowed_examples:
+  employment_type:
+    - Full time
+    - Part time
+    - Contract
+    - Internship
+    - Temporary
+    - null
+  vacancy_type:
+    - existing vacancy
+    - ongoing posting
+    - confidential search
+    - talent pool
+    - replacement hire
+    - null
+  seniority:
+    - intern
+    - early
+    - junior
+    - mid
+    - senior
+    - senior_plus
+    - staff
+    - principal
+    - manager
+    - director
+    - null
+  role_family:
+    - software_tools
+    - cloud_platform
+    - research_tools
+    - ml_infrastructure
+    - ai_bioinformatics
+    - ai_engineering
+    - full_stack
+    - data_platform
+    - developer_tools
+    - security
+    - null
+  status_state:
+    - planned
+    - applied
+    - recruiter_screen
+    - interview
+    - offer
+    - rejected
+    - withdrawn
+    - closed
+
+applications:
+  - application_id: company-or-client-role-or-reqid-YYYY-MM-DD
+    company:
+      name: Company Name
+      careers_key: COMPANY_KEY_OR_SOURCE
+    role:
+      title: Role Title
+      requisition_id: null
+      employment_type: null
+      posted_relative: null
+      application_deadline: null
+      vacancy_type: null
+      role_family: null
+      seniority: null
+    locations: []
+    compensation:
+      currency: null
+      base_salary:
+        example_band:
+          min: null
+          max: null
+      equity_eligible: null
+      benefits_eligible: null
+    status:
+      state: applied
+      applied_on: null
+      last_updated: null
+    documents:
+      cv_version: null
+      cover_letter: null
+    follow_up:
+      recruiter_contact: null
+      referral_contact: null
+      next_action: null
+      next_action_due: null
+    notes: []
