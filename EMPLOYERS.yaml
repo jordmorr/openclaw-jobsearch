@@ -1,8 +1,8 @@
 categories:
   big_tech:
     GOOGLE: https://careers.google.com/jobs/results/
-    AMAZON: https://www.amazon.jobs/
-    APPLE: https://www.apple.com/careers/us/
+    AMAZON: https://www.amazon.jobs/en/search.json
+    APPLE: https://jobs.apple.com/en-us/search
     META: https://www.metacareers.com/
     MICROSOFT: https://careers.microsoft.com/
     NETFLIX: https://jobs.netflix.com/
@@ -21,7 +21,7 @@ categories:
     ROBLOX: https://careers.roblox.com/
 
   frontier_ai:
-    OPENAI: https://openai.com/careers/
+    OPENAI: https://jobs.ashbyhq.com/openai
     ANTHROPIC: https://www.anthropic.com/careers/jobs
     XAI: https://x.ai/careers
     HUGGINGFACE: https://huggingface.co/jobs
