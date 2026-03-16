@@ -3,10 +3,10 @@ categories:
     GOOGLE: https://careers.google.com/jobs/results/
     AMAZON: https://www.amazon.jobs/en/search.json
     APPLE: https://jobs.apple.com/en-us/search
-    META: https://www.metacareers.com/
-    MICROSOFT: https://careers.microsoft.com/
-    NETFLIX: https://jobs.netflix.com/
-    UBER: https://www.uber.com/us/en/careers/
+    META: https://www.metacareers.com/jobsearch
+    MICROSOFT: https://careers.microsoft.com/ | http://microsoft.ai/ | http://jobs.careers.microsoft.com/
+    NETFLIX: https://jobs.netflix.com/ | explore.jobs.netflix.net
+    UBER: https://www.uber.com/us/en/careers/ | http://uber.com/global/en/careers/list/
     AIRBNB: https://careers.airbnb.com/
     STRIPE: https://stripe.com/jobs
     DATADOG: https://careers.datadoghq.com/
@@ -55,6 +55,7 @@ categories:
     UNTETHER_AI: https://www.untether.ai/careers
     MYTHIC: https://mythic.ai/careers
     AXELERA_AI: https://www.axelera.ai/careers
+    HEWLETT PACKARD: https://careers.hpe.com/
 
   robotics_autonomy:
     TESLA: https://www.tesla.com/careers
