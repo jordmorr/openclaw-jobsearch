@@ -14,8 +14,8 @@ categories:
     DATABRICKS: https://www.databricks.com/company/careers
     PALANTIR: https://www.palantir.com/careers/
     DROPBOX: https://boards-api.greenhouse.io/v1/boards/dropbox/jobs
-    TWILIO: https://www.twilio.com/company/jobs
-    SHOPIFY: https://www.shopify.com/careers
+    TWILIO: https://boards-api.greenhouse.io/v1/boards/twilio
+    SHOPIFY: https://www.shopify.com/careers | shopify.com/careers/feed.xml
     BLOCK: https://block.xyz/careers
     COINBASE: https://www.coinbase.com/careers
     ROBLOX: https://careers.roblox.com/
@@ -56,6 +56,7 @@ categories:
     MYTHIC: https://mythic.ai/careers
     AXELERA_AI: https://www.axelera.ai/careers
     HEWLETT_PACKARD: https://careers.hpe.com/
+    NEBIUS: https://careers.nebius.com/
 
   robotics_autonomy:
     TESLA: https://www.tesla.com/careers
