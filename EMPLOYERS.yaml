@@ -16,9 +16,9 @@ categories:
     DROPBOX: https://boards-api.greenhouse.io/v1/boards/dropbox/jobs
     TWILIO: https://boards-api.greenhouse.io/v1/boards/twilio
     SHOPIFY: https://www.shopify.com/careers | shopify.com/careers/feed.xml
-    BLOCK: https://block.xyz/careers
-    COINBASE: https://www.coinbase.com/careers
-    ROBLOX: https://careers.roblox.com/
+    BLOCK: https://block.xyz/careers | https://boards-api.greenhouse.io/v1/boards/block/jobs
+    COINBASE: https://www.coinbase.com/careers | https://boards-api.greenhouse.io/v1/boards/coinbase/jobs
+    ROBLOX: https://careers.roblox.com/jobs | https://boards-api.greenhouse.io/v1/boards/roblox
 
   frontier_ai:
     OPENAI: https://jobs.ashbyhq.com/openai
