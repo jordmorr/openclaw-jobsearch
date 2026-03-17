@@ -21,8 +21,8 @@ categories:
     ROBLOX: https://careers.roblox.com/jobs | https://boards-api.greenhouse.io/v1/boards/roblox
 
   frontier_ai:
-    OPENAI: https://jobs.ashbyhq.com/openai
-    ANTHROPIC: https://www.anthropic.com/careers/jobs
+    OPENAI: https://jobs.ashbyhq.com/openai | https://api.ashbyhq.com/posting-api/job-board/openai
+    ANTHROPIC: https://www.anthropic.com/careers/jobs | https://boards-api.greenhouse.io/v1/boards/anthropic
     XAI: https://x.ai/careers
     HUGGINGFACE: https://huggingface.co/jobs
     COHERE: https://cohere.com/careers
