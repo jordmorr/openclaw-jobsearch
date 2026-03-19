@@ -35,10 +35,10 @@ categories:
     TOGETHER_AI: https://www.together.ai/careers | https://boards-api.greenhouse.io/v1/boards/togetherai/jobs
     WEIGHTS_BIASES: https://wandb.ai/site/jobs | https://job-boards.greenhouse.io/coreweave
     ANYSCALE: https://www.anyscale.com/careers | https://jobs.ashbyhq.com/anyscale
-    PINECONE: https://www.pinecone.io/careers
+    PINECONE: https://www.pinecone.io/careers | https://jobs.ashbyhq.com/pinecone
     ZILLIZ: https://zilliz.com/careers
-    REDIS: https://redis.com/company/careers/
-    MODAL: https://modal.com/careers
+    REDIS: https://redis.com/company/careers/ | https://jobs.ashbyhq.com/Redis
+    MODAL: https://modal.com/careers | https://jobs.ashbyhq.com/modal
 
   ai_infrastructure_hardware:
     NVIDIA: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite | https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs
