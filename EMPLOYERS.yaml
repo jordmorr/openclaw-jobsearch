@@ -58,12 +58,10 @@ categories:
   robotics_autonomy:
     TESLA: https://www.tesla.com/careers
     AURORA: https://aurora.tech/careers
-    WAYMO: https://waymo.com/careers
-    NURO: https://nuro.ai/careers
-    FIGURE_AI: https://figure.ai/careers
-    COVARIANT: https://covariant.ai/careers
-    INTRINSIC: https://intrinsic.ai/careers
-    SKYDIO: https://www.skydio.com/careers
+    WAYMO: https://waymo.com/careers | https://job-boards.greenhouse.io/waymo
+    NURO: https://nuro.ai/careers | https://job-boards.greenhouse.io/nuro
+    FIGURE_AI: https://figure.ai/careers | https://job-boards.greenhouse.io/figureai
+    SKYDIO: https://www.skydio.com/careers | https://jobs.ashbyhq.com/skydio
 
   space_defense:
     SPACEX: https://www.spacex.com/careers/
