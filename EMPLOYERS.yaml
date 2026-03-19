@@ -33,7 +33,6 @@ categories:
     STABILITY_AI: https://stability.ai/careers
     ELEVENLABS: https://elevenlabs.io/careers
     TOGETHER_AI: https://www.together.ai/careers | https://boards-api.greenhouse.io/v1/boards/togetherai/jobs
-    WEIGHTS_BIASES: https://wandb.ai/site/jobs | https://job-boards.greenhouse.io/coreweave
     ANYSCALE: https://www.anyscale.com/careers | https://jobs.ashbyhq.com/anyscale
     PINECONE: https://www.pinecone.io/careers | https://jobs.ashbyhq.com/pinecone
     ZILLIZ: https://zilliz.com/careers
@@ -42,20 +41,19 @@ categories:
 
   ai_infrastructure_hardware:
     NVIDIA: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite | https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs
-    GROQ: https://groq.com/careers
-    CEREBRAS: https://www.cerebras.net/careers/
-    SAMBA_NOVA: https://sambanova.ai/careers
-    TENSTORRENT: https://tenstorrent.com/careers
-    LAMBDA_LABS: https://lambda.ai/careers
-    COREWEAVE: https://www.coreweave.com/careers
-    VAST_DATA: https://vastdata.com/careers
-    ETCHED: https://www.etched.ai/careers
-    DMATRIX: https://www.d-matrix.ai/careers
-    UNTETHER_AI: https://www.untether.ai/careers
-    MYTHIC: https://mythic.ai/careers
-    AXELERA_AI: https://www.axelera.ai/careers
-    HEWLETT_PACKARD: https://careers.hpe.com/
-    NEBIUS: https://careers.nebius.com/
+    GROQ: https://groq.com/careers | https://jobs.gem.com/groq
+    CEREBRAS: https://www.cerebras.net/careers/ | https://job-boards.greenhouse.io/cerebrassystems
+    SAMBA_NOVA: https://sambanova.ai/careers | https://boards-api.greenhouse.io/v1/boards/sambanovasystems/jobs
+    TENSTORRENT: https://tenstorrent.com/careers | https://job-boards.greenhouse.io/tenstorrent
+    LAMBDA_LABS: https://lambda.ai/careers | https://jobs.ashbyhq.com/lambda
+    COREWEAVE: https://www.coreweave.com/careers | https://job-boards.greenhouse.io/coreweave
+    VAST_DATA: https://vastdata.com/careers | https://builtin.com/company/vast-data/jobs
+    ETCHED: https://www.etched.ai/careers | https://jobs.ashbyhq.com/etched
+    DMATRIX: https://www.d-matrix.ai/careers | https://jobs.ashbyhq.com/d-Matrix
+    MYTHIC: https://mythic.ai/careers | https://jobs.lever.co/mythic-ai.com
+    AXELERA_AI: https://www.axelera.ai/careers | https://jobs.ashbyhq.com/axelera
+    HEWLETT_PACKARD: https://careers.hpe.com/ | https://hpe.wd5.myworkdayjobs.com/Jobsathpe
+    NEBIUS: https://careers.nebius.com/ | https://job-boards.greenhouse.io/nebius
 
   robotics_autonomy:
     TESLA: https://www.tesla.com/careers
