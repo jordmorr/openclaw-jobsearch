@@ -74,11 +74,11 @@ categories:
   semiconductors_eda:
     ARM: https://careers.arm.com/
     ASML: https://www.asml.com/en/careers
-    SYNOPSYS: https://www.synopsys.com/careers.html
-    CADENCE: https://www.cadence.com/en_US/home/company/careers.html
-    QUALCOMM: https://www.qualcomm.com/company/careers
-    BROADCOM: https://www.broadcom.com/company/careers
-    INTEL: https://jobs.intel.com/
+    SYNOPSYS: https://www.synopsys.com/careers.html | https://careers.synopsys.com/search-jobs
+    CADENCE: https://www.cadence.com/en_US/home/company/careers.html | http://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs
+    QUALCOMM: https://www.qualcomm.com/company/careers | https://careers.qualcomm.com/careers
+    BROADCOM: https://www.broadcom.com/company/careers | http://broadcom.wd1.myworkdayjobs.com/wday/cxs/broadcom/External_Career/jobs
+    INTEL: https://jobs.intel.com/ | http://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs
     AMD: https://careers.amd.com/careers-home
     MARVELL: https://www.marvell.com/company/careers.html
     MEDIATEK: https://www.mediatek.com/careers
