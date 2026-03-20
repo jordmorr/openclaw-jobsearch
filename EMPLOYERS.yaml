@@ -64,12 +64,12 @@ categories:
     SKYDIO: https://www.skydio.com/careers | https://jobs.ashbyhq.com/skydio
 
   space_defense:
-    SPACEX: https://www.spacex.com/careers/
-    BLUE_ORIGIN: https://www.blueorigin.com/careers
-    ANDURIL: https://www.anduril.com/careers/
-    K2_SPACE: https://k2space.com/careers
-    PLANET: https://www.planet.com/company/careers/
-    SHIELD_AI: https://shield.ai/careers
+    SPACEX: https://www.spacex.com/careers/ | http://boards-api.greenhouse.io/v1/boards/spacex/jobs
+    BLUE_ORIGIN: https://www.blueorigin.com/careers | https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin | http://blueorigin.wd5.myworkdayjobs.com/wday/cxs/blueorigin/BlueOrigin/jobs
+    ANDURIL: https://www.anduril.com/careers/ | http://boards-api.greenhouse.io/v1/boards/andurilindustries
+    K2_SPACE: https://k2space.com/careers | http://job-boards.greenhouse.io/k2spacecorporation
+    PLANET: https://www.planet.com/company/careers/ | http://job-boards.greenhouse.io/planetlabs
+    SHIELD_AI: https://shield.ai/careers | https://jobs.lever.co/shieldai
 
   semiconductors_eda:
     ARM: https://careers.arm.com/
