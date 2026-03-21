@@ -25,6 +25,12 @@ categories:
     ANTHROPIC: https://www.anthropic.com/careers/jobs | https://boards-api.greenhouse.io/v1/boards/anthropic
     XAI: https://x.ai/careers | https://boards-api.greenhouse.io/v1/boards/xai/jobs?content=true
     HUGGINGFACE: https://huggingface.co/jobs | https://apply.workable.com/api/v1/widget/accounts/huggingface
+    CURSOR: https://cursor.com/careers
+    COGNITION_AI: https://cognition.ai/careers | https://jobs.ashbyhq.com/cognition
+    SIERRA_AI: https://sierra.ai/careers
+    HARVEY_AI: https://harvey.ai/careers | https://jobs.ashbyhq.com/harvey
+    GLEAN: https://www.glean.com/careers | https://job-boards.greenhouse.io/gleanwork
+    SAKANA_AI: https://sakana.ai/careers/
     COHERE: https://cohere.com/careers | https://jobs.ashbyhq.com/cohere
     MISTRAL: https://mistral.ai/careers | https://api.lever.co/v0/postings/mistral?mode=json
     PERPLEXITY: https://www.perplexity.ai/careers | https://jobs.ashbyhq.com/perplexity
@@ -34,10 +40,18 @@ categories:
     ELEVENLABS: https://elevenlabs.io/careers
     TOGETHER_AI: https://www.together.ai/careers | https://boards-api.greenhouse.io/v1/boards/togetherai/jobs
     ANYSCALE: https://www.anyscale.com/careers | https://jobs.ashbyhq.com/anyscale
+    LANGCHAIN: https://www.langchain.com/careers | https://jobs.ashbyhq.com/langchain
+    MOVESWORKS: https://www.moveworks.com/us/en/company/careers
+    ABRIDGE: https://www.abridge.com/careers | https://jobs.ashbyhq.com/abridge
     PINECONE: https://www.pinecone.io/careers | https://jobs.ashbyhq.com/pinecone
     ZILLIZ: https://zilliz.com/careers
     REDIS: https://redis.com/company/careers/ | https://jobs.ashbyhq.com/Redis
     MODAL: https://modal.com/careers | https://jobs.ashbyhq.com/modal
+
+  ai_developer_platforms:
+    WEIGHTS_&_BIASES: https://wandb.ai/site/careers/
+    FIREWORKS_AI: https://fireworks.ai/careers | https://job-boards.greenhouse.io/fireworksai
+    REPLICATE: https://replicate.com/careers | https://jobs.ashbyhq.com/replicate
 
   ai_infrastructure_hardware:
     NVIDIA: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite | https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs
@@ -54,6 +68,7 @@ categories:
     AXELERA_AI: https://www.axelera.ai/careers | https://jobs.ashbyhq.com/axelera
     HEWLETT_PACKARD: https://careers.hpe.com/ | https://hpe.wd5.myworkdayjobs.com/Jobsathpe
     NEBIUS: https://careers.nebius.com/ | https://job-boards.greenhouse.io/nebius
+    LIGHTMATTER: https://lightmatter.co/people/careers/
 
   robotics_autonomy:
     TESLA: https://www.tesla.com/careers
@@ -70,6 +85,12 @@ categories:
     K2_SPACE: https://k2space.com/careers | http://job-boards.greenhouse.io/k2spacecorporation
     PLANET: https://www.planet.com/company/careers/ | http://job-boards.greenhouse.io/planetlabs
     SHIELD_AI: https://shield.ai/careers | https://jobs.lever.co/shieldai
+
+  quantum_computing:
+    PSIQUANTUM: https://www.psiquantum.com/careers
+    IONQ: https://ionq.com/careers | https://job-boards.greenhouse.io/ionq
+    RIGETTI: https://www.rigetti.com/careers
+    D_WAVE: https://www.dwavequantum.com/company/careers/
 
   semiconductors_eda:
     ARM: https://careers.arm.com/
@@ -89,16 +110,17 @@ categories:
     MICRON: https://careers.micron.com/ | https://micron.wd1.myworkdayjobs.com
 
   bioinformatics_health_bio:
-    RECURSION: https://www.recursion.com/careers
-    INSITRO: https://insitro.com/careers
-    GENENTECH: https://www.gene.com/careers
-    GINKGO: https://www.ginkgobioworks.com/careers
+    RECURSION: https://www.recursion.com/careers | https://boards-api.greenhouse.io/v1/boards/recursionpharmaceuticals/jobs?content=true
+    INSITRO: https://insitro.com/careers | https://api.ashbyhq.com/posting-api/job-board/insitro
+    GENENTECH: https://www.gene.com/careers | https://roche.wd3.myworkdayjobs.com/wday/cxs/roche/ROG-A2O-GENE/jobs
+    GINKGO: https://www.ginkgobioworks.com/careers | http://ds-api.greenhouse.io/v1/boards/ginkgobioworks/jobs
     VARIANTYX: https://www.variantyx.com/company/careers-benefits/
-    TEMPUS_AI: https://www.tempus.com/careers/
-    ILLUMINA: https://jobs.illumina.com/
-    DNANEXUS: https://www.dnanexus.com/careers
-    COLOR_HEALTH: https://www.color.com/careers
-    NATERA: https://www.natera.com/company/careers/
+    TEMPUS_AI: https://www.tempus.com/careers/ | https://tempus.wd5.myworkdayjobs.com/wday/cxs/tempus/Tempus_Careers/jobs
+    ILLUMINA: https://jobs.illumina.com/ | https://illumina.wd1.myworkdayjobs.com/wday/cxs/illumina/illumina-careers/jobs
+    DNANEXUS: https://www.dnanexus.com/careers | https://api.smartrecruiters.com/v1/companies/DNAnexus/postings
+    COLOR_HEALTH: https://www.color.com/careers | https://api.lever.co/v0/postings/color?mode=json
+    NATERA: https://www.natera.com/company/careers/ | https://boards-api.greenhouse.io/v1/boards/natera/jobs
+
 
   miscellaneous:
     10A_LABS: https://job-boards.greenhouse.io/10alabs
